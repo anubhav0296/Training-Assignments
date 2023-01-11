@@ -1,0 +1,14 @@
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\bin\Debug\netcoreapp3.1\Q_3_Linked_List.exe
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\bin\Debug\netcoreapp3.1\Q_3_Linked_List.deps.json
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\bin\Debug\netcoreapp3.1\Q_3_Linked_List.runtimeconfig.json
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\bin\Debug\netcoreapp3.1\Q_3_Linked_List.runtimeconfig.dev.json
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\bin\Debug\netcoreapp3.1\Q_3_Linked_List.dll
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\bin\Debug\netcoreapp3.1\Q_3_Linked_List.pdb
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\obj\Debug\netcoreapp3.1\Q_3_Linked_List.csproj.AssemblyReference.cache
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\obj\Debug\netcoreapp3.1\Q_3_Linked_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\obj\Debug\netcoreapp3.1\Q_3_Linked_List.AssemblyInfoInputs.cache
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\obj\Debug\netcoreapp3.1\Q_3_Linked_List.AssemblyInfo.cs
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\obj\Debug\netcoreapp3.1\Q_3_Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\obj\Debug\netcoreapp3.1\Q_3_Linked_List.dll
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\obj\Debug\netcoreapp3.1\Q_3_Linked_List.pdb
+C:\Users\ANUBHASR\source\repos\Q_3_Linked_List\Q_3_Linked_List\obj\Debug\netcoreapp3.1\Q_3_Linked_List.genruntimeconfig.cache

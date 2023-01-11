@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Assign_7_self/1.0.0": {
+        "runtime": {
+          "Assign_7_self.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assign_7_self/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

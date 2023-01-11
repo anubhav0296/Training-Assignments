@@ -1,0 +1,14 @@
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\bin\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.exe
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\bin\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.deps.json
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\bin\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.runtimeconfig.json
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\bin\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.runtimeconfig.dev.json
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\bin\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.dll
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\bin\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.pdb
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\obj\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.csproj.AssemblyReference.cache
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\obj\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\obj\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.AssemblyInfoInputs.cache
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\obj\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.AssemblyInfo.cs
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\obj\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\obj\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.dll
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\obj\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.pdb
+C:\Users\ANUBHASR\source\repos\Q_1_DirectoryInfo_FileInfo\Q_1_DirectoryInfo_FileInfo\obj\Debug\netcoreapp3.1\Q_1_DirectoryInfo_FileInfo.genruntimeconfig.cache

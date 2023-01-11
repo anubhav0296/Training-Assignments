@@ -1,0 +1,14 @@
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\bin\Debug\netcoreapp3.1\Assign_7_self.exe
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\bin\Debug\netcoreapp3.1\Assign_7_self.deps.json
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\bin\Debug\netcoreapp3.1\Assign_7_self.runtimeconfig.json
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\bin\Debug\netcoreapp3.1\Assign_7_self.runtimeconfig.dev.json
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\bin\Debug\netcoreapp3.1\Assign_7_self.dll
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\bin\Debug\netcoreapp3.1\Assign_7_self.pdb
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\obj\Debug\netcoreapp3.1\Assign_7_self.csproj.AssemblyReference.cache
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\obj\Debug\netcoreapp3.1\Assign_7_self.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\obj\Debug\netcoreapp3.1\Assign_7_self.AssemblyInfoInputs.cache
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\obj\Debug\netcoreapp3.1\Assign_7_self.AssemblyInfo.cs
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\obj\Debug\netcoreapp3.1\Assign_7_self.csproj.CoreCompileInputs.cache
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\obj\Debug\netcoreapp3.1\Assign_7_self.dll
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\obj\Debug\netcoreapp3.1\Assign_7_self.pdb
+C:\Users\ANUBHASR\source\repos\Assign_7_self\Assign_7_self\obj\Debug\netcoreapp3.1\Assign_7_self.genruntimeconfig.cache

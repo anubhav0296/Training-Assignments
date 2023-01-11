@@ -1,0 +1,14 @@
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\obj\Debug\netcoreapp3.1\Assignment_5_q2_o.csproj.AssemblyReference.cache
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\obj\Debug\netcoreapp3.1\Assignment_5_q2_o.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\obj\Debug\netcoreapp3.1\Assignment_5_q2_o.AssemblyInfoInputs.cache
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\obj\Debug\netcoreapp3.1\Assignment_5_q2_o.AssemblyInfo.cs
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\obj\Debug\netcoreapp3.1\Assignment_5_q2_o.csproj.CoreCompileInputs.cache
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\bin\Debug\netcoreapp3.1\Assignment_5_q2_o.exe
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\bin\Debug\netcoreapp3.1\Assignment_5_q2_o.deps.json
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\bin\Debug\netcoreapp3.1\Assignment_5_q2_o.runtimeconfig.json
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\bin\Debug\netcoreapp3.1\Assignment_5_q2_o.runtimeconfig.dev.json
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\bin\Debug\netcoreapp3.1\Assignment_5_q2_o.dll
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\bin\Debug\netcoreapp3.1\Assignment_5_q2_o.pdb
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\obj\Debug\netcoreapp3.1\Assignment_5_q2_o.dll
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\obj\Debug\netcoreapp3.1\Assignment_5_q2_o.pdb
+C:\Users\ANUBHASR\source\repos\Assignment_5_q2_o\Assignment_5_q2_o\obj\Debug\netcoreapp3.1\Assignment_5_q2_o.genruntimeconfig.cache

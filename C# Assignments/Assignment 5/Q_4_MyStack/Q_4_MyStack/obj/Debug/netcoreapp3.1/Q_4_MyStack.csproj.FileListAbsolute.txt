@@ -1,0 +1,14 @@
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\obj\Debug\netcoreapp3.1\Q_4_MyStack.csproj.AssemblyReference.cache
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\obj\Debug\netcoreapp3.1\Q_4_MyStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\obj\Debug\netcoreapp3.1\Q_4_MyStack.AssemblyInfoInputs.cache
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\obj\Debug\netcoreapp3.1\Q_4_MyStack.AssemblyInfo.cs
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\obj\Debug\netcoreapp3.1\Q_4_MyStack.csproj.CoreCompileInputs.cache
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\bin\Debug\netcoreapp3.1\Q_4_MyStack.exe
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\bin\Debug\netcoreapp3.1\Q_4_MyStack.deps.json
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\bin\Debug\netcoreapp3.1\Q_4_MyStack.runtimeconfig.json
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\bin\Debug\netcoreapp3.1\Q_4_MyStack.runtimeconfig.dev.json
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\bin\Debug\netcoreapp3.1\Q_4_MyStack.dll
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\bin\Debug\netcoreapp3.1\Q_4_MyStack.pdb
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\obj\Debug\netcoreapp3.1\Q_4_MyStack.dll
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\obj\Debug\netcoreapp3.1\Q_4_MyStack.pdb
+C:\Users\ANUBHASR\source\repos\Q_4_MyStack\Q_4_MyStack\obj\Debug\netcoreapp3.1\Q_4_MyStack.genruntimeconfig.cache

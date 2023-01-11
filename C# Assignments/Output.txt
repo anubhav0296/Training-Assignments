@@ -1,0 +1,32 @@
+Account No - 11
+Customer Name - Shanu
+Balance - 0
+Available balance after Withdrawing 200 is: 79800
+Account No - 11
+Customer Name - Anubhav
+Balance - 90000
+Available balance after Withdrawing 200 is: 89800
+Deposited 5000 in the Account
+Available Balance: 94800
+Available balance after Withdrawing 900 is: 93900
+Account No - 12
+Customer Name - Shanu
+Balance - 800000
+Available balance after Withdrawing 200 is: 799800
+Deposited 5000 in the Account
+Available Balance: 804800
+Available balance after Withdrawing 900 is: 803900
+Account No - 11
+Customer Name - Shanu
+Balance - 90000
+Available balance after Withdrawing 200 is: 89800
+Deposited 5000 in the Account
+Available Balance: 94800
+Available balance after Withdrawing 900 is: 93900
+Account No - 12
+Customer Name - Aniket
+Balance - 80000
+Available balance after Withdrawing 200 is: 79800
+Deposited 5000 in the Account
+Available Balance: 84800
+Available balance after Withdrawing 900 is: 83900
