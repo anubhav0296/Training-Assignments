@@ -1,0 +1,7 @@
+C:\Users\ANUBHASR\source\repos\Q_1_Reflection\Q_1_Reflection\obj\Debug\Q_1_Reflection.csproj.AssemblyReference.cache
+C:\Users\ANUBHASR\source\repos\Q_1_Reflection\Q_1_Reflection\obj\Debug\Q_1_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\ANUBHASR\source\repos\Q_1_Reflection\Q_1_Reflection\bin\Debug\Q_1_Reflection.exe.config
+C:\Users\ANUBHASR\source\repos\Q_1_Reflection\Q_1_Reflection\bin\Debug\Q_1_Reflection.exe
+C:\Users\ANUBHASR\source\repos\Q_1_Reflection\Q_1_Reflection\bin\Debug\Q_1_Reflection.pdb
+C:\Users\ANUBHASR\source\repos\Q_1_Reflection\Q_1_Reflection\obj\Debug\Q_1_Reflection.exe
+C:\Users\ANUBHASR\source\repos\Q_1_Reflection\Q_1_Reflection\obj\Debug\Q_1_Reflection.pdb

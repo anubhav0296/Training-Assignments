@@ -1,0 +1,14 @@
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\bin\Debug\netcoreapp3.1\Q_3_Employee_Serializables.exe
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\bin\Debug\netcoreapp3.1\Q_3_Employee_Serializables.deps.json
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\bin\Debug\netcoreapp3.1\Q_3_Employee_Serializables.runtimeconfig.json
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\bin\Debug\netcoreapp3.1\Q_3_Employee_Serializables.runtimeconfig.dev.json
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\bin\Debug\netcoreapp3.1\Q_3_Employee_Serializables.dll
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\bin\Debug\netcoreapp3.1\Q_3_Employee_Serializables.pdb
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\obj\Debug\netcoreapp3.1\Q_3_Employee_Serializables.csproj.AssemblyReference.cache
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\obj\Debug\netcoreapp3.1\Q_3_Employee_Serializables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\obj\Debug\netcoreapp3.1\Q_3_Employee_Serializables.AssemblyInfoInputs.cache
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\obj\Debug\netcoreapp3.1\Q_3_Employee_Serializables.AssemblyInfo.cs
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\obj\Debug\netcoreapp3.1\Q_3_Employee_Serializables.csproj.CoreCompileInputs.cache
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\obj\Debug\netcoreapp3.1\Q_3_Employee_Serializables.dll
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\obj\Debug\netcoreapp3.1\Q_3_Employee_Serializables.pdb
+C:\Users\ANUBHASR\Documents\Training-Assignments\C# Assignments\C Sharp Assignments\Assignment 7\Q_3_Employee_Serializable\Q_1_and_2_Delegates\obj\Debug\netcoreapp3.1\Q_3_Employee_Serializables.genruntimeconfig.cache

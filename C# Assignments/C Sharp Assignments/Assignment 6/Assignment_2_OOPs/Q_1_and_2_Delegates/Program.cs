@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using static Assignment_2_OOPs.Manager;
 
 namespace Assignment_2_OOPs
@@ -7,6 +8,11 @@ namespace Assignment_2_OOPs
     {
         static void Main(string[] args)
         {
+            // Serializing
+            string path = @"";
+            FileStream stream = new FileStream(path, FileMode.OpenOrCreate);
+
+
             // Taking input from user - id, name, salary, kilometer
             Console.WriteLine("Enter id of employee: ");
             int id = Convert.ToInt32(Console.ReadLine());

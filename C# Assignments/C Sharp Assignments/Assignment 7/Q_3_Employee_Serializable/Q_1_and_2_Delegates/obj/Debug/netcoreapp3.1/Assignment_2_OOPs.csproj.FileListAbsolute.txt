@@ -1,0 +1,28 @@
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.AssemblyInfoInputs.cache
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.AssemblyInfo.cs
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.csproj.CoreCompileInputs.cache
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\bin\Debug\netcoreapp3.1\Assignment_2_OOPs.exe
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\bin\Debug\netcoreapp3.1\Assignment_2_OOPs.deps.json
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\bin\Debug\netcoreapp3.1\Assignment_2_OOPs.runtimeconfig.json
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\bin\Debug\netcoreapp3.1\Assignment_2_OOPs.runtimeconfig.dev.json
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\bin\Debug\netcoreapp3.1\Assignment_2_OOPs.dll
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\bin\Debug\netcoreapp3.1\Assignment_2_OOPs.pdb
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.dll
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.pdb
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.genruntimeconfig.cache
+C:\Users\ANUBHASR\source\repos\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.csproj.AssemblyReference.cache
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.csproj.AssemblyReference.cache
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.AssemblyInfoInputs.cache
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.AssemblyInfo.cs
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.csproj.CoreCompileInputs.cache
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.dll
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.pdb
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\bin\Debug\netcoreapp3.1\Assignment_2_OOPs.exe
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\bin\Debug\netcoreapp3.1\Assignment_2_OOPs.deps.json
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\bin\Debug\netcoreapp3.1\Assignment_2_OOPs.runtimeconfig.json
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\bin\Debug\netcoreapp3.1\Assignment_2_OOPs.runtimeconfig.dev.json
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\bin\Debug\netcoreapp3.1\Assignment_2_OOPs.dll
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\bin\Debug\netcoreapp3.1\Assignment_2_OOPs.pdb
+C:\Users\ANUBHASR\source\repos\Assignments_self\Assignment 6\Assignment_2_OOPs\Assignment_2_OOPs\obj\Debug\netcoreapp3.1\Assignment_2_OOPs.genruntimeconfig.cache
